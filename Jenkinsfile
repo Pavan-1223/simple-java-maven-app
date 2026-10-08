@@ -52,7 +52,7 @@ Please check Jenkins for complete build details.
 Regards,
 Jenkins
 """,
-                to: "YOUR_GMAIL@gmail.com"
+                to: "gummanurpavan@gmail.com"
             )
         }
 
